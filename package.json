@@ -1,0 +1,22 @@
+{
+  "name": "requesting-http",
+  "version": "1.0.0",
+  "description": "requesting http second assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeganWoodford/Requesting-HTTP.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MeganWoodford/Requesting-HTTP/issues"
+  },
+  "homepage": "https://github.com/MeganWoodford/Requesting-HTTP#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
